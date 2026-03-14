@@ -1,18 +1,57 @@
-# Hotel System
+# Hotel Booking System
 
-A desktop-based hotel management system developed in Java using Apache NetBeans.
+A desktop-based booking management system developed using **Java**, **Java Swing**, and **MySQL**. The system allows customers and staff to manage bookings, update personal information, and interact with hotel services through a graphical user interface.
 
 ## Overview
-Hotel System is a Java application designed to support basic hotel management operations through a graphical user interface.  
-The project is structured as an object-oriented application and includes core classes for handling bookings, buildings, people, and the main GUI.
+This project was developed as part of an Object-Oriented Programming course to demonstrate the application of core OOP concepts such as **inheritance, polymorphism, encapsulation, and modular design**.  
+The system supports booking creation, cancellation, user management, and dynamic price calculation based on booking type and additional services.
 
 ## Features
-- Hotel management desktop interface
-- Booking management
-- Person-related data handling
-- Building/room structure handling
-- GUI-based interaction
-- Project assets and interface images included
+- Customer and staff login system
+- New customer registration
+- Create Standard or Premium bookings
+- Cancel existing bookings
+- Update customer contact information
+- Dynamic booking price calculation
+- Staff dashboard for viewing bookings
+- Input validation and error handling
+- MySQL database integration
+
+## Technologies Used
+- Java
+- Java Swing
+- JDBC
+- MySQL
+- Apache NetBeans
+- Git & GitHub
+
+## OOP Structure
+The project follows an object-oriented design:
+
+**Booking**
+- StandardBooking
+- PremiumBooking
+
+**Building**
+- Apartment
+- Villa
+
+**Person**
+- Customer
+- Staff
+
+## How to Run
+1. Clone the repository
+
+## Development Team
+This project was developed collaboratively by:
+
+- Jana Hassan Algarni
+- Leen Abdulrahman Hadari
+- Asma Abbas Albeshri
+- Lujan Abdullah Alqahtani
+- Fatimah Hassan Alnasser
+- Lamar Dhafir Alamri
 
 ## Project Structure
 ```text
