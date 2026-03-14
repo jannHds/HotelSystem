@@ -3,8 +3,10 @@
 A desktop-based booking management system developed using **Java**, **Java Swing**, and **MySQL**. The system allows customers and staff to manage bookings, update personal information, and interact with hotel services through a graphical user interface.
 
 ## Overview
-This project was developed as part of an Object-Oriented Programming course to demonstrate the application of core OOP concepts such as **inheritance, polymorphism, encapsulation, and modular design**.  
-The system supports booking creation, cancellation, user management, and dynamic price calculation based on booking type and additional services.
+This project was developed as part of the course **Object-Oriented Programming II (CSC236)**.  
+The goal of the project is to demonstrate the practical implementation of **Object-Oriented Programming (OOP)** concepts such as inheritance, polymorphism, encapsulation, and modular design within a real-world booking management system.
+
+The system allows users to create and manage bookings, update personal information, and calculate booking prices dynamically based on booking type and selected services.
 
 ## Features
 - Customer and staff login system
