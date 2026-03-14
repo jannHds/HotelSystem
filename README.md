@@ -40,9 +40,6 @@ The project follows an object-oriented design:
 - Customer
 - Staff
 
-## How to Run
-1. Clone the repository
-
 ## Development Team
 This project was developed collaboratively by:
 
